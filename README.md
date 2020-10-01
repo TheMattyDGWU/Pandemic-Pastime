@@ -8,3 +8,5 @@ The inspiration was to give the user options on subjects and interests to resear
 
 The API used for the recipe ingredients and wine pairings is located at:  https://spoonacular.com/food-apihttps://spoonacular.com/food-api
 The API used for nutritional information  is locatred at: https://developer.edamam.com/
+
+The forked (identical copy) of our project is located at: https://themattydgwu.github.io/Pandemic-Pastime/
