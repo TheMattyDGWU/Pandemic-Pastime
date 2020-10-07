@@ -1,5 +1,7 @@
 # Pandemic-Pastime
 
+<b>Project Link:</b> https://theycallmemattyd.github.io/Pandemic-Pastime/
+
 This is the first GWU BootCamp group Project.
 
 The inspiration was to give the user options on subjects and interests to research while quarantined during the COVID-19 Global Pandemic. In the interests of development time, the scope was limited to taking ingredients from the fridge, inputting them, and using APIs to find both recipes the user could make, along with some appropriate wine pairings.
