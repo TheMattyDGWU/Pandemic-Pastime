@@ -1,4 +1,4 @@
-# Pandemic-Pastime
+# Pandemic Pastimes
 
 <b>Project Link:</b> https://theycallmemattyd.github.io/Pandemic-Pastime/
 
